@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+###> doctrine/doctrine-bundle ###
+  mysql_gis_river_back:
+    ports:
+      - "3306"
+###< doctrine/doctrine-bundle ###
